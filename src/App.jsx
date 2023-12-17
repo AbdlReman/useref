@@ -1,11 +1,9 @@
-// import BasicUseEffect from "./useEffect/BasicUseEffect";
-import Window from "./windowSize/Window";
+import RefBasic from "./ref/RefBasic";
 
 function App() {
   return (
     <>
-      <Window />
-      {/* <BasicUseEffect /> */}
+      <RefBasic />
     </>
   );
 }
